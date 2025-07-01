@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+  <meta charset="UTF-8">
+  <title>שליחת קורות חיים</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>יצירת טיוטות מייל ל־Outlook</h1>
+
+  <form id="emailForm">
+    <label>נושא המייל:
+      <input type="text" id="subject" name="subject" required>
+    </label>
+
+    <label>כתובות מייל (מופרדות בפסיקים):
+      <textarea id="recipients" name="recipients" required></textarea>
+    </label>
+
+    <label>גוף ההודעה:
+      <textarea id="body" name="body" required></textarea>
+    </label>
+
+    <label>קובץ קורות חיים:
+      <input type="file" id="attachment" name="cv" accept=".pdf,.doc,.docx" required>
+    </label>
+
+    <button type="submit">צור טיוטות</button>
+  </form>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+D:\תכנות\web-project\openEmail\ConsoleApp1\bin\Release\net8.0\openEmailDrafts.exe
+D:\תכנות\web-project\openEmail\ConsoleApp1\bin\Release\net8.0\openEmailDrafts.deps.json
+D:\תכנות\web-project\openEmail\ConsoleApp1\bin\Release\net8.0\openEmailDrafts.runtimeconfig.json
+D:\תכנות\web-project\openEmail\ConsoleApp1\bin\Release\net8.0\openEmailDrafts.dll
+D:\תכנות\web-project\openEmail\ConsoleApp1\bin\Release\net8.0\openEmailDrafts.pdb
+D:\תכנות\web-project\openEmail\ConsoleApp1\obj\Release\net8.0\openEmailDrafts.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\web-project\openEmail\ConsoleApp1\obj\Release\net8.0\openEmailDrafts.AssemblyInfoInputs.cache
+D:\תכנות\web-project\openEmail\ConsoleApp1\obj\Release\net8.0\openEmailDrafts.AssemblyInfo.cs
+D:\תכנות\web-project\openEmail\ConsoleApp1\obj\Release\net8.0\openEmailDrafts.csproj.CoreCompileInputs.cache
+D:\תכנות\web-project\openEmail\ConsoleApp1\obj\Release\net8.0\openEmailDrafts.dll
+D:\תכנות\web-project\openEmail\ConsoleApp1\obj\Release\net8.0\refint\openEmailDrafts.dll
+D:\תכנות\web-project\openEmail\ConsoleApp1\obj\Release\net8.0\openEmailDrafts.pdb
+D:\תכנות\web-project\openEmail\ConsoleApp1\obj\Release\net8.0\openEmailDrafts.genruntimeconfig.cache
+D:\תכנות\web-project\openEmail\ConsoleApp1\obj\Release\net8.0\ref\openEmailDrafts.dll
